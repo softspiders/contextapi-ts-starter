@@ -1,6 +1,6 @@
 [SOFTSPIDERS](https://github.com/softspiders/softspiders)
 
-# context-api-ts-starter
+# contextapi-ts-starter
 
 Minimalistic React module in TypeScript with Context API.
 
