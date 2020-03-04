@@ -6,10 +6,11 @@ Minimalistic React module in TypeScript with Context API.
 
 ## Feature tags
 
+- context-api
 - react
 - starter
+- template
 - typescript
-- context-api
 
 ---
 
