@@ -8,6 +8,7 @@ Minimalistic React module in TypeScript with Context API.
 
 - context-api
 - cra
+- ie11
 - starter
 - template
 - typescript
