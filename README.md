@@ -2,7 +2,7 @@
 
 # contextapi-ts-starter
 
-Minimalistic React module in TypeScript with Context API.
+Minimalistic *React* application in *TypeScript* with *Context API*.
 
 ## Feature tags
 
