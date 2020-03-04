@@ -51,12 +51,14 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ---
 
-### License
-
-Licensed under the [MIT license](./LICENSE).
-
 ## Learn More
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
 To learn more about Context API see [official documentation](https://reactjs.org/docs/context.html)
+
+---
+
+## License
+
+Licensed under the [MIT license](./LICENSE).
