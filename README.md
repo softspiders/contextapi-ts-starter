@@ -21,6 +21,11 @@ Minimalistic *React* application in *TypeScript* with *Context API*.
 [**+formik, styled-components, state-management**](https://github.com/softspiders/cra-contextapi-formik-sc-sm-ts-starter)
 
 ---
+## Author
+
+[Dmitrii](https://github.com/dmitrii92)
+
+---
 
 ## Requirements
 
@@ -50,20 +55,6 @@ The build is minified and the filenames include the hashes.<br />
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
----
-
-## Author
-
-[Dmitrii](https://github.com/dmitrii92)
-
----
-## Direct ancestors
-[***-context-api***: cra-ts-ie11-starter](https://github.com/softspiders/cra-ts-ie11-starter)
-
-## Direct descendants
-
-[***+formic***, ***styled-components***, ***state-management***: cra-formik-styledcomponents-ts-starter](https://github.com/softspiders/cra-formik-styledcomponents-ts-starter)
 
 ---
 
