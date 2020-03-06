@@ -15,7 +15,7 @@ Minimalistic *React* application in *TypeScript* with *Context API*.
 
 ---
 ## Direct ancestors
-[***context-api***: cra-ts-ie11-starter](https://github.com/softspiders/cra-ts-ie11-starter)
+[**context-api**](https://github.com/softspiders/cra-ts-ie11-starter)
 
 ---
 
